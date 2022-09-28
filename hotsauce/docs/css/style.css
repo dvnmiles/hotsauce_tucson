@@ -1,0 +1,68 @@
+*{
+
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+p {
+text-decoration: ;
+}
+
+a {
+    color: blue;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: red;
+    text-decoration: none;
+}
+
+a:visited {
+    color: purple;
+  }
+
+a:active {
+    color: darkblue;
+  }
+
+.title {
+    color: #fff;
+    text-align: center;
+    padding-top: 80px;
+    
+
+}
+
+.host_punchline {
+
+}
+
+.title_punchline {
+
+}
+
+.jumbotron {
+    background-image: url('../img/hotsauce_tucson_header.jpg');
+    height: 200px;
+    background-position: bottom center;
+}
+
+.host_punchline {
+    color: white;
+    text-align: center;
+}
